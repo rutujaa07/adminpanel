@@ -1,0 +1,9 @@
+.loginpage{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.loginpage .btn-primary{
+    width: 100px
+}

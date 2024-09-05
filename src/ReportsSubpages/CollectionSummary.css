@@ -1,0 +1,44 @@
+.collection-summary-container {
+  max-width: 900px; 
+  margin: 0 auto;
+  background-color: #ffffff;
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.text-center {
+  text-align: center; 
+  color: #333; 
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+}
+
+.p-4 {
+  padding: 1.5rem; 
+}
+
+.border {
+  border: 1px solid #ddd; 
+}
+
+.rounded {
+  border-radius: 8px; 
+}
+
+.shadow-sm {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.mt-3 {
+  margin-top: 1rem !important; 
+}
+
+.mt-4 {
+  margin-top: 1.5rem !important; 
+}
+
+.w-100 {
+  width: 100% !important;
+}

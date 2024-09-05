@@ -1,0 +1,31 @@
+
+.table {
+    width: 100%;
+  }
+  
+  
+  .table thead th {
+    background-color: #343a40; 
+    color: white;
+    text-align: left;
+    font-size: 1.2rem; 
+    padding: 1rem; 
+  }
+  
+  
+  .table tbody td {
+    text-align: center; 
+    font-size: 1.2rem; 
+    padding: 2.5rem;
+  }
+  
+  
+  .table-responsive {
+    overflow-x: auto;
+  }
+  
+  
+  .table + .table {
+    margin-top: 3rem; 
+  }
+  

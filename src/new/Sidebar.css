@@ -1,0 +1,15 @@
+ul {
+    text-decoration: none;
+    color: #9e9ea4;
+}
+
+.dropdown {
+    text-decoration: none;
+    color: #9e9ea4;
+    row-gap: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #9e9ea4;   
+}

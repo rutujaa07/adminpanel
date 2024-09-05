@@ -1,0 +1,42 @@
+.demand-challan-container {
+    background-color: #f8f9fa; 
+  }
+  
+  .report-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .search-card {
+    border: 1px solid #ddd; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .search-card .card-body {
+    padding: 20px;
+  }
+  
+   .form-control {
+    width: 200px;
+  }
+  
+  
+  
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  .table th, .table td {
+    vertical-align: middle; 
+  }
+  
+  .table thead th {
+    background-color: #e9ecef;
+    font-weight: bold; 
+  }
+  
+  .table tbody td {
+    text-align: center;
+  }
+  
